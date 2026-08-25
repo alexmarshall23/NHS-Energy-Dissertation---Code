@@ -1,1 +1,1 @@
-This repository contains all seven notebooks used for the NHS Energy usage MSc Dissertation for the University of Bristol. Notebooks are ordered chronologically from 1-7, and should be executed in this order to replicate the study.
+This repository contains all seven notebooks used for the NHS Energy usage MSc Dissertation for the University of Bristol. Notebooks are ordered chronologically from 1-7, and should be executed in this order to replicate the study. Relevant datasets outlined in the report will need to be downloaded in order to run the code.
